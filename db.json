@@ -1,16 +1,19 @@
 {
   "menus": [
     {
+      "id": 1,
       "label": "Home",
       "icon": "home",
       "url": "#home"
     },
     {
+      "id": 2,
       "label": "About",
       "icon": "slots",
       "url": "#about"
     },
     {
+      "id": 3,
       "label": "Contact Us",
       "icon": "cards",
       "url": "#contactus",
@@ -19,6 +22,7 @@
       "labelClassName": "labelClassName"
     },
     {
+      "id": 4,
       "label": "Shop",
       "icon": "shop",
       "url": "#shop",
